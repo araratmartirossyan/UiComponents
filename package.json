@@ -13,11 +13,7 @@
     "build": "node build/build.js",
     "story": "start-storybook -p 9001 -c .storybook .storybook/webpack.config.js"
   },
-  "main": "src/index",
-  "files": [
-    "dist",
-    "src"
-  ],
+  "main": "src/main.js",
   "dependencies": {
     "@storybook/addon-knobs": "^3.4.3",
     "enzyme": "^3.3.0",

@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.24cfb7bfb2059291c4646e9d1c13db85.css"],"names":[],"mappings":"AACA,KACE,YAAa,AACb,aAAc,AACd,gBAAiB,AACjB,sBAAwB,CACzB,AACD,OACE,UAAY,CACb","file":"app.24cfb7bfb2059291c4646e9d1c13db85.css","sourcesContent":["\n.btn {\n  width: 100px;\n  height: 100px;\n  background: #fff;\n  color: var(--colorText);\n}\n.white {\n  color: #fff;\n}"]}
