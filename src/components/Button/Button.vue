@@ -15,7 +15,7 @@ export default {
     fontColor: String,
     title: {
       type: String,
-      default: ''
+      default: 'Fucj'
     }
   },
   methods: {

@@ -22,6 +22,7 @@ module.exports = {
     'semi': ['error', 'never'],
     'no-shadow': ['error'],
     'linebreak-style': 0,
+    'max-len': 'off',
     'import/prefer-default-export': 'off',
     'arrow-parens': 'off',
     'import/extensions': ['error', 'always', {
